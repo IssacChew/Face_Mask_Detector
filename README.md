@@ -5,6 +5,9 @@ The task in this assignment is to build a face mask detection system to recognis
 # Dataset Source
 The dataset used in this project is come from https://www.kaggle.com/omkargurav/face-mask-dataset. It is a dataset that consists of 7553 RGB images in 2 folders as withmask and withoutmask. Images are named as label withmask and withoutmask. Images of faces with mask are 3725 and images of faces without mask are 3828.  1776 images including both With and Without Face Mask images is taken from Prajna Bhandary's Github account (https://github.com/prajnasb/observations); Remaining 5777 images are collected and filtered from Google search engine. This dataset will be used to train the face mask detector in detecting the availability of the face mask on a face in an image.
 
+# Flow Chart
+![Image of Flow Chart](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/Flowchart.png)
+
 # Mask
 The mask image above will be used in this project
 
