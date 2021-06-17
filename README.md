@@ -13,11 +13,14 @@ The mask image above will be used in this project
 # Example of Input Images
 ![Image of Input](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/Input.png)
 
+# Image Prediction
+![Image of Prediction](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/Prediction.png)
+
 # Output Images
 Output Image with Mask
 
-![Image of Output with Mask](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/Chew_Swee_Keat_with_mask.jpg)
+![Image of Output with Mask](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/Output%20with%20mask.png)
 
 Output Image without Mask
 
-![Image of Output with Mask](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/Chew_Swee_Keat_without_mask.jpg)
+![Image of Output with Mask](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/Output%20without%20mask.png)
