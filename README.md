@@ -11,7 +11,7 @@ The dataset used in this project is come from https://www.kaggle.com/omkargurav/
 # Mask
 The mask image above will be used in this project
 
-![Image of Mask](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/mask.png)
+![Image of Mask](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Data/mask.png)
 
 # Example of Input Images
 ![Image of Input](https://github.com/IssacChew/Face_Mask_Detector/blob/main/Images/Input.png)
