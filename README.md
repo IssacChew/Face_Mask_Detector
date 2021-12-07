@@ -1,5 +1,5 @@
 # Face_Mask_Detector
-This repository is for WIX3001 SOFT COMPUTING assignment only
+This repository is for WID3008 Image Processing assignment only
 The task in this assignment is to build a face mask detection system to recognise the availability of face mask in an image.
 
 # Dataset Source
